@@ -1,4 +1,15 @@
 ### Hi there 👋
+------------
+I am a full-stack Java Developer.
+---------------------------------
+Based in INDIA.
+---------------
+Open to remote work and Java Projects.
+--------------------------------------
+Connect with me - https://www.linkedin.com/in/aakashs1012/
+                  OR
+                  https://twitter.com/aakashs1012
+----------------------------------------------------------
 
 <!--
 **akscorpion/akscorpion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
