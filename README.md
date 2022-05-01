@@ -6,9 +6,7 @@ Based in INDIA.
 ---------------
 Open to remote work and Java Projects.
 --------------------------------------
-Connect with me - https://www.linkedin.com/in/aakashs1012/
-                  OR
-                  https://twitter.com/aakashs1012
+Connect with me - https://linktr.ee/aakashs1012
 ----------------------------------------------------------
 
 <!--
