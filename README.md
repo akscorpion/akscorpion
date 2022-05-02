@@ -7,8 +7,8 @@ Java Developer
 I started coding 5 years ago.
 
 * 🌍  I'm based in Lucknow, Uttar Pradesh, India.
-* 🖥️  See my portfolio at [\->Connect with me here<-](http://linktr.ee/aakashs1012)
-* ✉️  You can contact me at [akashsri53@gmail.com](mailto:akashsri53@gmail.com)
+* 🖥️  Social links - [\->Connect with me here<-](http://linktr.ee/aakashs1012)
+* ✉️  Mail me - [akashsri53@gmail.com](mailto:akashsri53@gmail.com)
 * 🧠  I'm learning Spring framework, Hibernate and full stack web/app development in Java
 * 🤝  I'm open to collaborating on Java Projects
 * ⚡  Coding is fun until you have to think of a good variable name... xD
