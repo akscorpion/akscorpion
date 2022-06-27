@@ -8,7 +8,7 @@ I started coding 5 years ago.
 
 * 🌍  I'm based in Lucknow, Uttar Pradesh, India.
 * 🖥️  Social links - [\->Connect with me here<-](http://linktr.ee/aakashs1012)
-* ✉️  Mail me - [akashsri53@gmail.com](mailto:akashsri53@gmail.com)
+* ✉️  Mail me - [aakash.srivastava1@outlook.com](mailto:aakash.srivastava1@outlook.com)
 * 🧠  I'm learning Spring framework, Hibernate and full stack web/app development in Java
 * 🤝  I'm open to collaborating on Java Projects
 * ⚡  Coding is fun until you have to think of a good variable name... xD
